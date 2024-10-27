@@ -1,0 +1,10 @@
+This is what we call water bucket challenage 
+
+preface:
+1: there is a source of water that flows a unit of water continously downwards
+
+2: there is grid throught which either contais water that continously or block that water to flow downward but splits in their  side blocks
+
+3: there are a series of buckets in the end of grid that will catch the water that was falling and shows us how much water is in it  
+
+4: if there is single water flow enoicnter a  block then it will split into 2 one unit of water
